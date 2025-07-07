@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitagrawal/json-analyser-mcp.git"
+    "url": "git+https://github.com/contactakagrawal/json-analyser-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/amitagrawal/json-analyser-mcp/issues"
+    "url": "https://github.com/contactakagrawal/json-analyser-mcp/issues"
   },
-  "homepage": "https://github.com/amitagrawal/json-analyser-mcp#readme"
+  "homepage": "https://github.com/contactakagrawal/json-analyser-mcp#readme"
 }
