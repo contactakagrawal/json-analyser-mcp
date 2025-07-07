@@ -1,0 +1,43 @@
+{
+  "name": "json-analyser-mcp",
+  "version": "1.0.0",
+  "description": "A Model Context Protocol (MCP) server for analyzing large JSON files with memory-efficient streaming",
+  "main": "json-analyser-mcp.js",
+  "type": "module",
+  "bin": {
+    "json-analyser-mcp": "json-analyser-mcp.js"
+  },
+  "scripts": {
+    "start": "node json-analyser-mcp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "json",
+    "analyzer",
+    "streaming",
+    "model-context-protocol",
+    "ai",
+    "assistant",
+    "data-analysis"
+  ],
+  "author": "Amit Agrawal",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "zod": "^3.23.8",
+    "stream-chain": "^2.2.5",
+    "stream-json": "^1.8.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitagrawal/json-analyser-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitagrawal/json-analyser-mcp/issues"
+  },
+  "homepage": "https://github.com/amitagrawal/json-analyser-mcp#readme"
+}
