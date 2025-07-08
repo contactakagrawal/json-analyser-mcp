@@ -28,7 +28,7 @@ Add to your MCP client configuration:
 {
   "mcpServers": {
     "json-analyser": {
-      "command": "json-analyser-mcp"
+      "command": "npx json-analyser-mcp"
     }
   }
 }
